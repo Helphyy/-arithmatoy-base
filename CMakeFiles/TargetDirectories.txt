@@ -1,0 +1,8 @@
+/home/helphy/Documents/00_PLAYGROUND/02_InfoSec/01_Working_DIR/00_Random/math/arithmatoy-base/CMakeFiles/arithmatoy.dir
+/home/helphy/Documents/00_PLAYGROUND/02_InfoSec/01_Working_DIR/00_Random/math/arithmatoy-base/CMakeFiles/arithmatoy-cli.dir
+/home/helphy/Documents/00_PLAYGROUND/02_InfoSec/01_Working_DIR/00_Random/math/arithmatoy-base/CMakeFiles/edit_cache.dir
+/home/helphy/Documents/00_PLAYGROUND/02_InfoSec/01_Working_DIR/00_Random/math/arithmatoy-base/CMakeFiles/rebuild_cache.dir
+/home/helphy/Documents/00_PLAYGROUND/02_InfoSec/01_Working_DIR/00_Random/math/arithmatoy-base/CMakeFiles/list_install_components.dir
+/home/helphy/Documents/00_PLAYGROUND/02_InfoSec/01_Working_DIR/00_Random/math/arithmatoy-base/CMakeFiles/install.dir
+/home/helphy/Documents/00_PLAYGROUND/02_InfoSec/01_Working_DIR/00_Random/math/arithmatoy-base/CMakeFiles/install/local.dir
+/home/helphy/Documents/00_PLAYGROUND/02_InfoSec/01_Working_DIR/00_Random/math/arithmatoy-base/CMakeFiles/install/strip.dir
