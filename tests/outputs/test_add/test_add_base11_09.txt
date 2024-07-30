@@ -1,5 +1,7 @@
 add 11 1704939022082a6754850748a2386aa279a1110a8471a96157945a52a3565431789a605166 8619076494503a891265326149a7793147765784236825378674667308a587952471770a73 --verbose
 1704939022082a6754850748a2386aa279a1110a8471a96157945a52a3565431789a605166 + 8619076494503a891265326149a7793147765784236825378674667308a587952471770a73 = a222a04506586a45673a39aa4135392416676893a82a23993359161601513116a261276129
+add 1704939022082a6754850748a2386aa279a1110a8471a96157945a52a3565431789a605166 8619076494503a891265326149a7793147765784236825378674667308a587952471770a73 --verbose
+1704939022082a6754850748a2386aa279a1110a8471a96157945a52a3565431789a605166 + 8619076494503a891265326149a7793147765784236825378674667308a587952471770a73
 add: entering function
 add: digit 6 digit 3 carry 0
 add: result: digit 9 carry 0
@@ -20,7 +22,7 @@ add: result: digit 6 carry 1
 add: digit 8 digit 4 carry 1
 add: result: digit 2 carry 1
 add: digit 7 digit 2 carry 1
-add: result: digit a carry 0
+add: result: digit 10 carry 0
 add: digit 1 digit 5 carry 0
 add: result: digit 6 carry 0
 add: digit 3 digit 9 carry 0
@@ -62,13 +64,13 @@ add: result: digit 3 carry 1
 add: digit a digit 2 carry 1
 add: result: digit 2 carry 1
 add: digit 1 digit 8 carry 1
-add: result: digit a carry 0
+add: result: digit 10 carry 0
 add: digit 7 digit 6 carry 0
 add: result: digit 2 carry 1
 add: digit 4 digit 3 carry 1
 add: result: digit 8 carry 0
 add: digit 8 digit 2 carry 0
-add: result: digit a carry 0
+add: result: digit 10 carry 0
 add: digit a digit 4 carry 0
 add: result: digit 3 carry 1
 add: digit 0 digit 8 carry 1
@@ -102,15 +104,15 @@ add: result: digit 1 carry 1
 add: digit a digit 4 carry 1
 add: result: digit 4 carry 1
 add: digit 8 digit 1 carry 1
-add: result: digit a carry 0
+add: result: digit 10 carry 0
 add: digit 4 digit 6 carry 0
-add: result: digit a carry 0
+add: result: digit 10 carry 0
 add: digit 7 digit 2 carry 0
 add: result: digit 9 carry 0
 add: digit 0 digit 3 carry 0
 add: result: digit 3 carry 0
 add: digit 5 digit 5 carry 0
-add: result: digit a carry 0
+add: result: digit 10 carry 0
 add: digit 8 digit 6 carry 0
 add: result: digit 3 carry 1
 add: digit 4 digit 2 carry 1
@@ -122,7 +124,7 @@ add: result: digit 5 carry 1
 add: digit 6 digit 8 carry 1
 add: result: digit 4 carry 1
 add: digit a digit a carry 1
-add: result: digit a carry 1
+add: result: digit 10 carry 1
 add: digit 2 digit 3 carry 1
 add: result: digit 6 carry 0
 add: digit 8 digit 0 carry 0
@@ -140,7 +142,7 @@ add: result: digit 4 carry 1
 add: digit 3 digit 7 carry 1
 add: result: digit 0 carry 1
 add: digit 9 digit 0 carry 1
-add: result: digit a carry 0
+add: result: digit 10 carry 0
 add: digit 4 digit 9 carry 0
 add: result: digit 2 carry 1
 add: digit 0 digit 1 carry 1
@@ -148,4 +150,4 @@ add: result: digit 2 carry 0
 add: digit 7 digit 6 carry 0
 add: result: digit 2 carry 1
 add: digit 1 digit 8 carry 1
-add: result: digit a carry 0
+add: result: digit 10 carry 0

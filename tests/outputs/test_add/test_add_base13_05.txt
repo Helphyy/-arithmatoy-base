@@ -1,10 +1,12 @@
 add 13 997c00cbc10b6c155cb0b70889609482a36b6b644c56ab434ca484516cc212a3763bc 59764722b67056017367803c5999686940aa0560039496081a57510bb817592b8cbb9 --verbose
 997c00cbc10b6c155cb0b70889609482a36b6b644c56ab434ca484516cc212a3763bc + 59764722b67056017367803c5999686940aa0560039496081a57510bb817592b8cbb9 = 126254821a77bc51703486748162a301c144873c4531b744b6a2c056058096c02362a8
+add 997c00cbc10b6c155cb0b70889609482a36b6b644c56ab434ca484516cc212a3763bc 59764722b67056017367803c5999686940aa0560039496081a57510bb817592b8cbb9 --verbose
+997c00cbc10b6c155cb0b70889609482a36b6b644c56ab434ca484516cc212a3763bc + 59764722b67056017367803c5999686940aa0560039496081a57510bb817592b8cbb9
 add: entering function
 add: digit c digit 9 carry 0
 add: result: digit 8 carry 1
 add: digit b digit b carry 1
-add: result: digit a carry 1
+add: result: digit 10 carry 1
 add: digit 3 digit b carry 1
 add: result: digit 2 carry 1
 add: digit 6 digit c carry 1
@@ -16,7 +18,7 @@ add: result: digit 2 carry 1
 add: digit a digit 2 carry 1
 add: result: digit 0 carry 1
 add: digit 2 digit 9 carry 1
-add: result: digit c carry 0
+add: result: digit 12 carry 0
 add: digit 1 digit 5 carry 0
 add: result: digit 6 carry 0
 add: digit 2 digit 7 carry 0
@@ -36,15 +38,15 @@ add: result: digit 5 carry 0
 add: digit 8 digit 5 carry 0
 add: result: digit 0 carry 1
 add: digit 4 digit 7 carry 1
-add: result: digit c carry 0
+add: result: digit 12 carry 0
 add: digit a digit 5 carry 0
 add: result: digit 2 carry 1
 add: digit c digit a carry 1
-add: result: digit a carry 1
+add: result: digit 10 carry 1
 add: digit 4 digit 1 carry 1
 add: result: digit 6 carry 0
 add: digit 3 digit 8 carry 0
-add: result: digit b carry 0
+add: result: digit 11 carry 0
 add: digit 4 digit 0 carry 0
 add: result: digit 4 carry 0
 add: digit b digit 6 carry 0
@@ -52,7 +54,7 @@ add: result: digit 4 carry 1
 add: digit a digit 9 carry 1
 add: result: digit 7 carry 1
 add: digit 6 digit 4 carry 1
-add: result: digit b carry 0
+add: result: digit 11 carry 0
 add: digit 5 digit 9 carry 0
 add: result: digit 1 carry 1
 add: digit c digit 3 carry 1
@@ -62,7 +64,7 @@ add: result: digit 5 carry 0
 add: digit 4 digit 0 carry 0
 add: result: digit 4 carry 0
 add: digit 6 digit 6 carry 0
-add: result: digit c carry 0
+add: result: digit 12 carry 0
 add: digit b digit 5 carry 0
 add: result: digit 3 carry 1
 add: digit 6 digit 0 carry 1
@@ -76,7 +78,7 @@ add: result: digit 4 carry 0
 add: digit a digit 4 carry 0
 add: result: digit 1 carry 1
 add: digit 2 digit 9 carry 1
-add: result: digit c carry 0
+add: result: digit 12 carry 0
 add: digit 8 digit 6 carry 0
 add: result: digit 1 carry 1
 add: digit 4 digit 8 carry 1
@@ -84,7 +86,7 @@ add: result: digit 0 carry 1
 add: digit 9 digit 6 carry 1
 add: result: digit 3 carry 1
 add: digit 0 digit 9 carry 1
-add: result: digit a carry 0
+add: result: digit 10 carry 0
 add: digit 6 digit 9 carry 0
 add: result: digit 2 carry 1
 add: digit 9 digit 9 carry 1
@@ -114,15 +116,15 @@ add: result: digit 1 carry 0
 add: digit c digit 6 carry 0
 add: result: digit 5 carry 1
 add: digit 6 digit 5 carry 1
-add: result: digit c carry 0
+add: result: digit 12 carry 0
 add: digit b digit 0 carry 0
-add: result: digit b carry 0
+add: result: digit 11 carry 0
 add: digit 0 digit 7 carry 0
 add: result: digit 7 carry 0
 add: digit 1 digit 6 carry 0
 add: result: digit 7 carry 0
 add: digit c digit b carry 0
-add: result: digit a carry 1
+add: result: digit 10 carry 1
 add: digit b digit 2 carry 1
 add: result: digit 1 carry 1
 add: digit c digit 2 carry 1
@@ -139,4 +141,5 @@ add: digit 9 digit 9 carry 1
 add: result: digit 6 carry 1
 add: digit 9 digit 5 carry 1
 add: result: digit 2 carry 1
-add: final carry 1
+add: add final carry 1add: digit 0 digit 0 carry 1
+add: result: digit 1 carry 0

@@ -1,5 +1,7 @@
 sub 11 528197a636053884412142312426922a09760101975609a849a0a70357a847a09641813739 1720a27a43726487aaa059029736246a474199a27108278081a7a3a3889239605266aa375 --verbose
 528197a636053884412142312426922a09760101975609a849a0a70357a847a09641813739 - 1720a27a43726487aaa059029736246a474199a27108278081a7a3a3889239605266aa375 = 510a88794179123671223750a5632a931501921270453730418127741a1a24059116114374
+sub 528197a636053884412142312426922a09760101975609a849a0a70357a847a09641813739 1720a27a43726487aaa059029736246a474199a27108278081a7a3a3889239605266aa375 --verbose
+528197a636053884412142312426922a09760101975609a849a0a70357a847a09641813739 - 1720a27a43726487aaa059029736246a474199a27108278081a7a3a3889239605266aa375
 sub: entering function
 sub: digit 9 digit 5 carry 0
 sub: result: digit 4 carry 0
@@ -30,11 +32,11 @@ sub: result: digit 4 carry 0
 sub: digit 4 digit 2 carry 0
 sub: result: digit 2 carry 0
 sub: digit 8 digit 9 carry 0
-sub: result: digit a carry 1
+sub: result: digit 10 carry 1
 sub: digit a digit 8 carry 1
 sub: result: digit 1 carry 0
 sub: digit 7 digit 8 carry 0
-sub: result: digit a carry 1
+sub: result: digit 10 carry 1
 sub: digit 5 digit 3 carry 1
 sub: result: digit 1 carry 0
 sub: digit 3 digit a carry 0
@@ -90,7 +92,7 @@ sub: result: digit 3 carry 0
 sub: digit 2 digit 4 carry 0
 sub: result: digit 9 carry 1
 sub: digit 2 digit 2 carry 1
-sub: result: digit a carry 1
+sub: result: digit 10 carry 1
 sub: digit 9 digit 6 carry 1
 sub: result: digit 2 carry 0
 sub: digit 6 digit 3 carry 0
@@ -100,7 +102,7 @@ sub: result: digit 6 carry 1
 sub: digit 4 digit 9 carry 1
 sub: result: digit 5 carry 1
 sub: digit 2 digit 2 carry 1
-sub: result: digit a carry 1
+sub: result: digit 10 carry 1
 sub: digit 1 digit 0 carry 1
 sub: result: digit 0 carry 0
 sub: digit 3 digit 9 carry 0
@@ -142,7 +144,7 @@ sub: result: digit 8 carry 1
 sub: digit 9 digit 0 carry 1
 sub: result: digit 8 carry 0
 sub: digit 1 digit 2 carry 0
-sub: result: digit a carry 1
+sub: result: digit 10 carry 1
 sub: digit 8 digit 7 carry 1
 sub: result: digit 0 carry 0
 sub: digit 2 digit 1 carry 0

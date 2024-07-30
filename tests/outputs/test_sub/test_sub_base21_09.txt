@@ -1,5 +1,7 @@
 sub 21 154j031i94giej48d32088ikh81dg6a4e3b0hek608hg72c8c9bk2gg34kd 1002dk0d79hkhhi6j9hj59e459bfeg2945703j3740abde3bb0b4hga7jca --verbose
 154j031i94giej48d32088ikh81dg6a4e3b0hek608hg72c8c9bk2gg34kd - 1002dk0d79hkhhi6j9hj59e459bfeg2945703j3740abde3bb0b4hga7jca = 54g74151fjii171ee522k4gbjaj1b7g9j40dggjh874e98i190f605g683
+sub 154j031i94giej48d32088ikh81dg6a4e3b0hek608hg72c8c9bk2gg34kd 1002dk0d79hkhhi6j9hj59e459bfeg2945703j3740abde3bb0b4hga7jca --verbose
+154j031i94giej48d32088ikh81dg6a4e3b0hek608hg72c8c9bk2gg34kd - 1002dk0d79hkhhi6j9hj59e459bfeg2945703j3740abde3bb0b4hga7jca
 sub: entering function
 sub: digit d digit a carry 0
 sub: result: digit 3 carry 0
@@ -8,7 +10,7 @@ sub: result: digit 8 carry 0
 sub: digit 4 digit j carry 0
 sub: result: digit 6 carry 1
 sub: digit 3 digit 7 carry 1
-sub: result: digit g carry 1
+sub: result: digit 16 carry 1
 sub: digit g digit a carry 1
 sub: result: digit 5 carry 0
 sub: digit g digit g carry 0
@@ -16,7 +18,7 @@ sub: result: digit 0 carry 0
 sub: digit 2 digit h carry 0
 sub: result: digit 6 carry 1
 sub: digit k digit 4 carry 1
-sub: result: digit f carry 0
+sub: result: digit 15 carry 0
 sub: digit b digit b carry 0
 sub: result: digit 0 carry 0
 sub: digit 9 digit 0 carry 0
@@ -24,13 +26,13 @@ sub: result: digit 9 carry 0
 sub: digit c digit b carry 0
 sub: result: digit 1 carry 0
 sub: digit 8 digit b carry 0
-sub: result: digit i carry 1
+sub: result: digit 18 carry 1
 sub: digit c digit 3 carry 1
 sub: result: digit 8 carry 0
 sub: digit 2 digit e carry 0
 sub: result: digit 9 carry 1
 sub: digit 7 digit d carry 1
-sub: result: digit e carry 1
+sub: result: digit 14 carry 1
 sub: digit g digit b carry 1
 sub: result: digit 4 carry 0
 sub: digit h digit a carry 0
@@ -38,45 +40,45 @@ sub: result: digit 7 carry 0
 sub: digit 8 digit 0 carry 0
 sub: result: digit 8 carry 0
 sub: digit 0 digit 4 carry 0
-sub: result: digit h carry 1
+sub: result: digit 17 carry 1
 sub: digit 6 digit 7 carry 1
-sub: result: digit j carry 1
+sub: result: digit 19 carry 1
 sub: digit k digit 3 carry 1
-sub: result: digit g carry 0
+sub: result: digit 16 carry 0
 sub: digit e digit j carry 0
-sub: result: digit g carry 1
+sub: result: digit 16 carry 1
 sub: digit h digit 3 carry 1
-sub: result: digit d carry 0
+sub: result: digit 13 carry 0
 sub: digit 0 digit 0 carry 0
 sub: result: digit 0 carry 0
 sub: digit b digit 7 carry 0
 sub: result: digit 4 carry 0
 sub: digit 3 digit 5 carry 0
-sub: result: digit j carry 1
+sub: result: digit 19 carry 1
 sub: digit e digit 4 carry 1
 sub: result: digit 9 carry 0
 sub: digit 4 digit 9 carry 0
-sub: result: digit g carry 1
+sub: result: digit 16 carry 1
 sub: digit a digit 2 carry 1
 sub: result: digit 7 carry 0
 sub: digit 6 digit g carry 0
-sub: result: digit b carry 1
+sub: result: digit 11 carry 1
 sub: digit g digit e carry 1
 sub: result: digit 1 carry 0
 sub: digit d digit f carry 0
-sub: result: digit j carry 1
+sub: result: digit 19 carry 1
 sub: digit 1 digit b carry 1
-sub: result: digit a carry 1
+sub: result: digit 10 carry 1
 sub: digit 8 digit 9 carry 1
-sub: result: digit j carry 1
+sub: result: digit 19 carry 1
 sub: digit h digit 5 carry 1
-sub: result: digit b carry 0
+sub: result: digit 11 carry 0
 sub: digit k digit 4 carry 0
-sub: result: digit g carry 0
+sub: result: digit 16 carry 0
 sub: digit i digit e carry 0
 sub: result: digit 4 carry 0
 sub: digit 8 digit 9 carry 0
-sub: result: digit k carry 1
+sub: result: digit 20 carry 1
 sub: digit 8 digit 5 carry 1
 sub: result: digit 2 carry 0
 sub: digit 0 digit j carry 0
@@ -84,9 +86,9 @@ sub: result: digit 2 carry 1
 sub: digit 2 digit h carry 1
 sub: result: digit 5 carry 1
 sub: digit 3 digit 9 carry 1
-sub: result: digit e carry 1
+sub: result: digit 14 carry 1
 sub: digit d digit j carry 1
-sub: result: digit e carry 1
+sub: result: digit 14 carry 1
 sub: digit 8 digit 6 carry 1
 sub: result: digit 1 carry 0
 sub: digit 4 digit i carry 0
@@ -94,13 +96,13 @@ sub: result: digit 7 carry 1
 sub: digit j digit h carry 1
 sub: result: digit 1 carry 0
 sub: digit e digit h carry 0
-sub: result: digit i carry 1
+sub: result: digit 18 carry 1
 sub: digit i digit k carry 1
-sub: result: digit i carry 1
+sub: result: digit 18 carry 1
 sub: digit g digit h carry 1
-sub: result: digit j carry 1
+sub: result: digit 19 carry 1
 sub: digit 4 digit 9 carry 1
-sub: result: digit f carry 1
+sub: result: digit 15 carry 1
 sub: digit 9 digit 7 carry 1
 sub: result: digit 1 carry 0
 sub: digit i digit d carry 0
@@ -112,7 +114,7 @@ sub: result: digit 4 carry 1
 sub: digit 0 digit d carry 1
 sub: result: digit 7 carry 1
 sub: digit j digit 2 carry 1
-sub: result: digit g carry 0
+sub: result: digit 16 carry 0
 sub: digit 4 digit 0 carry 0
 sub: result: digit 4 carry 0
 sub: digit 5 digit 0 carry 0

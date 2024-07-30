@@ -1,8 +1,10 @@
 sub 14 195d049093215b6c0233a2b92b4dc1850296a3111d9b15d29545550917676c910471 ab7d600404d58d7d801a994ac28c88c4b22d920ab56d9c9dc54708bb45950a3dd03 --verbose
 195d049093215b6c0233a2b92b4dc1850296a3111d9b15d29545550917676c910471 - ab7d600404d58d7d801a994ac28c88c4b22d920ab56d9c9dc54708bb45950a3dd03 = c850c9052b202740831d7245d24d6d69573a7d052441a0696d0c45b430c1bcb056c
+sub 195d049093215b6c0233a2b92b4dc1850296a3111d9b15d29545550917676c910471 ab7d600404d58d7d801a994ac28c88c4b22d920ab56d9c9dc54708bb45950a3dd03 --verbose
+195d049093215b6c0233a2b92b4dc1850296a3111d9b15d29545550917676c910471 - ab7d600404d58d7d801a994ac28c88c4b22d920ab56d9c9dc54708bb45950a3dd03
 sub: entering function
 sub: digit 1 digit 3 carry 0
-sub: result: digit c carry 1
+sub: result: digit 12 carry 1
 sub: digit 7 digit 0 carry 1
 sub: result: digit 6 carry 0
 sub: digit 4 digit d carry 0
@@ -10,15 +12,15 @@ sub: result: digit 5 carry 1
 sub: digit 0 digit d carry 1
 sub: result: digit 0 carry 1
 sub: digit 1 digit 3 carry 1
-sub: result: digit b carry 1
+sub: result: digit 11 carry 1
 sub: digit 9 digit a carry 1
-sub: result: digit c carry 1
+sub: result: digit 12 carry 1
 sub: digit c digit 0 carry 1
-sub: result: digit b carry 0
+sub: result: digit 11 carry 0
 sub: digit 6 digit 5 carry 0
 sub: result: digit 1 carry 0
 sub: digit 7 digit 9 carry 0
-sub: result: digit c carry 1
+sub: result: digit 12 carry 1
 sub: digit 6 digit 5 carry 1
 sub: result: digit 0 carry 0
 sub: digit 7 digit 4 carry 0
@@ -26,17 +28,17 @@ sub: result: digit 3 carry 0
 sub: digit 1 digit b carry 0
 sub: result: digit 4 carry 1
 sub: digit 9 digit b carry 1
-sub: result: digit b carry 1
+sub: result: digit 11 carry 1
 sub: digit 0 digit 8 carry 1
 sub: result: digit 5 carry 1
 sub: digit 5 digit 0 carry 1
 sub: result: digit 4 carry 0
 sub: digit 5 digit 7 carry 0
-sub: result: digit c carry 1
+sub: result: digit 12 carry 1
 sub: digit 5 digit 4 carry 1
 sub: result: digit 0 carry 0
 sub: digit 4 digit 5 carry 0
-sub: result: digit d carry 1
+sub: result: digit 13 carry 1
 sub: digit 5 digit c carry 1
 sub: result: digit 6 carry 1
 sub: digit 9 digit d carry 1
@@ -46,7 +48,7 @@ sub: result: digit 6 carry 1
 sub: digit d digit c carry 1
 sub: result: digit 0 carry 0
 sub: digit 5 digit 9 carry 0
-sub: result: digit a carry 1
+sub: result: digit 10 carry 1
 sub: digit 1 digit d carry 1
 sub: result: digit 1 carry 1
 sub: digit b digit 6 carry 1
@@ -60,11 +62,11 @@ sub: result: digit 5 carry 1
 sub: digit 1 digit 0 carry 1
 sub: result: digit 0 carry 0
 sub: digit 1 digit 2 carry 0
-sub: result: digit d carry 1
+sub: result: digit 13 carry 1
 sub: digit 3 digit 9 carry 1
 sub: result: digit 7 carry 1
 sub: digit a digit d carry 1
-sub: result: digit a carry 1
+sub: result: digit 10 carry 1
 sub: digit 6 digit 2 carry 1
 sub: result: digit 3 carry 0
 sub: digit 9 digit 2 carry 0
@@ -76,17 +78,17 @@ sub: result: digit 9 carry 1
 sub: digit 5 digit c carry 1
 sub: result: digit 6 carry 1
 sub: digit 8 digit 8 carry 1
-sub: result: digit d carry 1
+sub: result: digit 13 carry 1
 sub: digit 1 digit 8 carry 1
 sub: result: digit 6 carry 1
 sub: digit c digit c carry 1
-sub: result: digit d carry 1
+sub: result: digit 13 carry 1
 sub: digit d digit 8 carry 1
 sub: result: digit 4 carry 0
 sub: digit 4 digit 2 carry 0
 sub: result: digit 2 carry 0
 sub: digit b digit c carry 0
-sub: result: digit d carry 1
+sub: result: digit 13 carry 1
 sub: digit 2 digit a carry 1
 sub: result: digit 5 carry 1
 sub: digit 9 digit 4 carry 1
@@ -96,7 +98,7 @@ sub: result: digit 2 carry 0
 sub: digit 2 digit 9 carry 0
 sub: result: digit 7 carry 1
 sub: digit a digit a carry 1
-sub: result: digit d carry 1
+sub: result: digit 13 carry 1
 sub: digit 3 digit 1 carry 1
 sub: result: digit 1 carry 0
 sub: digit 3 digit 0 carry 0
@@ -116,7 +118,7 @@ sub: result: digit 0 carry 0
 sub: digit 1 digit d carry 0
 sub: result: digit 2 carry 1
 sub: digit 2 digit 4 carry 1
-sub: result: digit b carry 1
+sub: result: digit 11 carry 1
 sub: digit 3 digit 0 carry 1
 sub: result: digit 2 carry 0
 sub: digit 9 digit 4 carry 0
@@ -126,7 +128,7 @@ sub: result: digit 0 carry 0
 sub: digit 9 digit 0 carry 0
 sub: result: digit 9 carry 0
 sub: digit 4 digit 6 carry 0
-sub: result: digit c carry 1
+sub: result: digit 12 carry 1
 sub: digit 0 digit d carry 1
 sub: result: digit 0 carry 1
 sub: digit d digit 7 carry 1
@@ -134,6 +136,6 @@ sub: result: digit 5 carry 0
 sub: digit 5 digit b carry 0
 sub: result: digit 8 carry 1
 sub: digit 9 digit a carry 1
-sub: result: digit c carry 1
+sub: result: digit 12 carry 1
 sub: digit 1 digit 0 carry 1
 sub: result: digit 0 carry 0
